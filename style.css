@@ -9,7 +9,8 @@ a       { color:      blue;   text-decoration: none; }
 a:hover { font-style: italic; text-decoration: none; }
 
 h1 {
-    margin: 0 0 5px 25%;
+    margin: 5px auto;
+    width: 550px;
     padding: 150px 0 0 0;
     font-family: serif;
     font-style: italic;
@@ -34,7 +35,7 @@ h1 {
 #navigation {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 0 0 50px 0;
 }
 
 #navigation li {
@@ -73,12 +74,14 @@ h3 {
 }
 
 #content {
-    margin: 0 auto;
-    padding: 3em;
+    margin: -50px auto;
+    padding: 3em 3em 1em 3em;
     width: 600px;
     text-align: justify;
     background-color: white;
     color: black;
+    border-radius: 50px 50px 0 0;
+    -moz-border-radius: 50px 50px 0 0;
 }
 
 .cover {
@@ -88,8 +91,8 @@ h3 {
 
 #mandolin {
     text-align: center;
-    margin: 1em;
-    padding: 2em;
+    margin: 0;
+    padding: 1em;
     white-space: nowrap;
 }
 
@@ -102,7 +105,7 @@ h3 {
     width: 600px;
     height: 60px;
     text-align: center;
-    margin: 0 auto;
+    margin: 50px auto;
     padding: 1em;
     background: url(footer.png);
     background-repeat: no-repeat;
