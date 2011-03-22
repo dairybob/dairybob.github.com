@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Western Canadian Dairy Historian Robert Snyder
+title: Dairy Historian Robert Snyder
 ---
 
 Bob is a native of Edmonton, born in the city in 1936. He received his early education at McDougall School, Norwood School, Rutherford School, King Edward Jr. High, and Scona High School, all in Edmonton, and Nutana Collegiate in Saskatoon, Saskatchewan.
