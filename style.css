@@ -92,12 +92,12 @@ h3 {
 }
 
 #footer {
-    display: inline;
-    float: right;
-    margin: 2em 20%;
-    padding: 0.5em 2em;
-    background: url(banner.png);
-    color: white;
-    border-radius: 1000px 0;
-    -moz-border-radius: 1000px 0;
+    width: 600px;
+    height: 60px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 1em;
+    background: url(footer.png);
+    background-repeat: no-repeat;
+    color: black;
 }
