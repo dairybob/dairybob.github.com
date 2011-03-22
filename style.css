@@ -1,0 +1,99 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+a       { color:      blue;   text-decoration: none; }
+a:hover { font-style: italic; text-decoration: none; }
+
+h1 {
+    margin: 150px 0 5px 25%;
+    font-family: serif;
+    font-style: italic;
+    font-size: 50pt;
+}
+
+#bottle {
+    float: right;
+    margin-top: -200px;
+}
+
+#header {
+    margin: 0 5%;
+    padding: 0 20%;
+    background: url(banner.png);
+    color: white;
+    border-radius: 1000px 0;
+    -moz-border-radius: 1000px 0;
+}
+
+#navigation {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#navigation li {
+    margin: 0;
+    padding: 0;
+}
+
+#navigation li a {
+    display: block;
+    width: 200px;
+    margin: 0;
+    padding: 0.5em;
+    vertical-align: bottom;
+    text-align: center;
+    color: white;
+    border-radius: 1000px 0;
+    -moz-border-radius: 1000px 0;
+}
+
+#navigation li a:hover {
+    background-color: navy;
+    color: white;
+}
+
+h2 {
+    margin: 3em 0 1em 0;
+    border-bottom: 3px solid navy;
+    color: navy;
+}
+
+h3 {
+    border-bottom: 1px dashed navy;
+    color: navy;
+}
+
+#content {
+    margin: 0 30%;
+}
+
+.cover {
+    width: 0;
+    padding: 1em;
+}
+
+#mandolin {
+    text-align: center;
+    margin: 1em;
+    padding: 2em;
+}
+
+#mandolin a {
+    font-size: x-large;
+    font-weight: bold;
+}
+
+#footer {
+    display: inline;
+    float: right;
+    margin: 2em 30%;
+    padding: 0.5em 2em;
+    text-align: right;
+    background: url(banner.png);
+    color: white;
+    border-radius: 1000px 0;
+    -moz-border-radius: 1000px 0;
+}
