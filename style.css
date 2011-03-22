@@ -71,6 +71,7 @@ h3 {
 #content {
     margin: 0 auto;
     width: 600px;
+    text-align: justify;
 }
 
 .cover {
@@ -86,16 +87,15 @@ h3 {
 }
 
 #mandolin a {
-    font-size: x-large;
+    font-size: large;
     font-weight: bold;
 }
 
 #footer {
     display: inline;
     float: right;
-    margin: 2em 30%;
+    margin: 2em 20%;
     padding: 0.5em 2em;
-    text-align: right;
     background: url(banner.png);
     color: white;
     border-radius: 1000px 0;
