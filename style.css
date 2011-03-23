@@ -86,7 +86,7 @@ h3 {
 }
 
 #content table { width: 100%; }
-.cover     { width: 0; padding: 1em;  }
+.cover     { width: 200px; padding: 1em;  }
 .cover img { border: 2px solid black; }
 
 #mandolin {
