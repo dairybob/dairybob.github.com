@@ -29,8 +29,10 @@ h1 {
     width: 600px;
     background: url(banner.png);
     color: white;
-    border-radius: 50px 50px 0 0;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
     -moz-border-radius: 50px 50px 0 0;
+    -webkit-border-radius: 50px 50px 0 0;
 }
 
 #navigation {
@@ -54,6 +56,7 @@ h1 {
     color: white;
     border-radius: 1000px;
     -moz-border-radius: 1000px;
+    -webkit-border-radius: 1000px;
 }
 
 #navigation li a:hover {
@@ -81,8 +84,10 @@ h3 {
     text-align: justify;
     background-color: white;
     color: black;
-    border-radius: 50px 50px 0 0;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
     -moz-border-radius: 50px 50px 0 0;
+    -webkit-border-radius: 50px 50px 0 0;
 }
 
 #content table { width: 100%; }
