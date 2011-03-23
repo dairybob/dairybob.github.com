@@ -105,8 +105,10 @@ h3 {
     height: 60px;
     text-align: center;
     margin: 50px auto;
-    padding: 1em;
-    background: url(footer.png);
+    padding: 1em 3em;
+    background: url(footer.png) white 3em 0;
     background-repeat: no-repeat;
     color: black;
 }
+
+.fourohfour { margin-bottom: 300px; }
