@@ -84,18 +84,9 @@ h3 {
     -moz-border-radius: 50px 50px 0 0;
 }
 
-#content table {
-    width: 600px;
-}
-
-.cover {
-    width: 0;
-    padding: 1em;
-}
-
-.cover img {
-    border: 2px solid black;
-}
+#content table { width: 100%; }
+.cover     { width: 0; padding: 1em;  }
+.cover img { border: 2px solid black; }
 
 #mandolin {
     text-align: center;
