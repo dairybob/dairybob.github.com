@@ -27,7 +27,7 @@ h1 {
     margin: 0 auto;
     padding: 0 45px;
     width: 600px;
-    background: #1240AB;
+    background: url(/banner.png);
     color: white;
     border-top-left-radius: 50px;
     border-top-right-radius: 50px;
