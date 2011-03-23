@@ -3,6 +3,7 @@ html, body {
     padding: 0;
     background: url(/bg.png);
     background-repeat: repeat-x;
+    font-family: sans-serif;
 }
 
 a       { color:      blue;   text-decoration: none; }
