@@ -98,6 +98,25 @@ h3 {
 .cover     { width: 200px; padding: 20px;  }
 .cover img { border: 2px solid black; }
 
+#content ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#content li {
+    margin: 1em 2em;
+}
+
+#content a         { color: navy; }
+#content a:visited { color: blue; }
+
+.date {
+    float: left;
+    width: 200px;
+    font-weight: bold;
+}
+
 #mandolin {
     text-align: center;
     margin: 0;

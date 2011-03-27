@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Welcome!
+title: Dairy Articles
 articles: id="title"
 ---
 
 <ul>
 {% for post in site.posts %}
-<li><a href="{{ post.url }}">{{ post.date | date: "%B %Y" }} &mdash; {{ post.title }}</a></li>
+<li><a href="{{ post.url }}"><span class="date">{{ post.date | date: "%B %Y" }}</span> {{ post.title }}</a></li>
 {% endfor %}
 </ul>
