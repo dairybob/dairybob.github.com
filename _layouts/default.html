@@ -42,12 +42,10 @@
 {{ content }}
 </div>
 
-<div id="footer">
-{% if page.date %}
+<div id="footer">{% if page.date %}
 Written in {{ page.date | date: "%B, %Y" }}.
 {% else %}
 Updated on {{ site.time | date: "%A, %B %e, %Y" }}.
-{% endif %}
-</div>
+{% endif %}</div>
 </body>
 </html>
