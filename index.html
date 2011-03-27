@@ -1,0 +1,11 @@
+---
+layout: default
+title: Welcome!
+articles: id="title"
+---
+
+<ul>
+{% for post in site.posts %}
+<li><a href="{{ post.url }}">{{ post.date | date: "%B %Y" }} &mdash; {{ post.title }}</a></li>
+{% endfor %}
+</ul>

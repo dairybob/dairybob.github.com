@@ -43,7 +43,11 @@
 </div>
 
 <div id="footer">
-Updated on {{ site.time | date: "%A, %B %e, %Y" }}.
+{% if page.date %}
+Written in {{ page.date | date: "%B, %Y" }}.
+{% else %}
+Update on {{ site.time | date: "%A, %B %e, %Y" }}.
+{% endif %}
 </div>
 </body>
 </html>
