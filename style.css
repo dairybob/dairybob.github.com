@@ -28,13 +28,13 @@ h1 {
 
 #bottle {
     float: right;
-    margin-top: -275px;
+    margin-top: -260px;
 }
 
 #header {
     margin: 0 auto;
-    padding: 0 20px;
-    width: 650px;
+    padding: 0 45px;
+    width: 600px;
     background: url(/banner.png);
     color: white;
     border-top-left-radius: 40px;
@@ -50,7 +50,7 @@ h1 {
 }
 
 #navigation li {
-    margin: 0 75px;
+    margin: 0 35px;
     padding: 0;
 }
 
