@@ -126,6 +126,7 @@ h3 {
 
 .date {
     float: right;
+    margin-left: 2em;
 }
 
 #mandolin {
