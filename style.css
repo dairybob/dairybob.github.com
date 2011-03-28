@@ -1,9 +1,8 @@
 html, body {
     margin: 0;
     padding: 0;
-    background: url(/bg.png);
+    background: url(/assets/bg.png);
     background-repeat: repeat-x;
-    background-attachment: fixed;
     font-family: sans-serif;
 }
 
@@ -36,7 +35,7 @@ h1 {
     margin: 0 auto;
     padding: 0 45px;
     width: 600px;
-    background: url(/banner.png);
+    background: url(/assets/banner.png);
     color: white;
     border-top-left-radius: 40px;
     border-top-right-radius: 40px;
@@ -149,7 +148,7 @@ h3 {
     text-align: center;
     margin: 0 auto;
     padding: 1em 45px;
-    background: url(footer.png) white 45px 0;
+    background: url(/assets/footer.png) white 45px 0;
     background-repeat: no-repeat;
     color: black;
 }
