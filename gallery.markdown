@@ -22,22 +22,14 @@ Dairies & Creameries were large and small and individual operators chose to use 
 
 There are also numerous other elements of dairyana collectables as follows:
 
--    Dairy & creamery calendars
-
--    Dairy & creamery advertising & promotional items
-
--    Cream cans
-
--    Dairy milk bottle crates
-
--    Dairy & creamery butter, cottage cheese boxes
-
--    “Ice cream” clocks
-
--    Milkman’s carry baskets
-
--    Bottle wrappers & ice cream containers
-
--    Dairy “paper”, price lists & correspondence
+* Dairy & creamery calendars
+* Dairy & creamery advertising & promotional items
+* Cream cans
+* Dairy milk bottle crates
+* Dairy & creamery butter, cottage cheese boxes
+* "Ice cream" clocks
+* Milkman’s carry baskets
+* Bottle wrappers & ice cream containers
+* Dairy "paper", price lists & correspondence
 
 We hope you enjoy the display and your journey back to the milk bottle era... 1900 &mdash; 1960 in western Canada.
