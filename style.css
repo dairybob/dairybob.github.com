@@ -6,8 +6,16 @@ html, body {
     font-family: sans-serif;
 }
 
-a       { color:      blue;   text-decoration: none; }
-a:hover { font-style: italic; text-decoration: none; }
+a {
+    color: blue;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    font-style: italic;
+    text-decoration: none;
+}
 
 h1 {
     margin: 5px auto;
@@ -105,16 +113,18 @@ h3 {
 }
 
 #content li {
-    margin: 1em 2em;
+    margin: 2em;
+}
+
+#content p {
+    margin: 0.5em 0;
 }
 
 #content a         { color: navy; }
 #content a:visited { color: blue; }
 
 .date {
-    float: left;
-    width: 200px;
-    font-weight: bold;
+    float: right;
 }
 
 #mandolin {

@@ -6,6 +6,7 @@ articles: id="title"
 
 <ul>
 {% for post in site.posts %}
-<li><a href="{{ post.url }}"><span class="date">{{ post.date | date: "%B %Y" }}</span> {{ post.title }}</a></li>
+<li> <span class="date">{{ post.date | date: "%B %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
+<p>{{ post.content | strip_html | truncatewords: 100 }} <a href="{{ post.url }}">read more.</a></p></li>
 {% endfor %}
 </ul>
