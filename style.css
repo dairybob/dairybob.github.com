@@ -3,6 +3,7 @@ html, body {
     padding: 0;
     background: url(/bg.png);
     background-repeat: repeat-x;
+    background-attachment: fixed;
     font-family: sans-serif;
 }
 
@@ -90,7 +91,8 @@ h3 {
 }
 
 #content {
-    margin: -50px auto;
+    margin: 0 auto;
+    margin-top: -50px;
     padding: 3em 45px 1em 45px;
     width: 600px;
     text-align: justify;
@@ -145,7 +147,7 @@ h3 {
     width: 600px;
     height: 60px;
     text-align: center;
-    margin: 50px auto;
+    margin: 0 auto;
     padding: 1em 45px;
     background: url(footer.png) white 45px 0;
     background-repeat: no-repeat;
