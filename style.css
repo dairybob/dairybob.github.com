@@ -103,6 +103,7 @@ h3 {
 }
 
 #content table { width: 100%; }
+#content>p { text-indent: 2em; }
 .cover     { width: 200px; padding: 20px;  }
 .cover img { border: 2px solid black; }
 
