@@ -106,17 +106,17 @@ h3 {
 .cover     { width: 200px; padding: 20px;  }
 .cover img { border: 2px solid black; }
 
-#content ul {
+#index {
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
 
-#content li {
+#index li {
     margin: 2em;
 }
 
-#content p {
+#index p {
     margin: 0.5em 0;
 }
 
