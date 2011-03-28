@@ -7,9 +7,7 @@ permalink: /gallery/
 This is a collection covering the four western Canadian provinces. It includes the following:
 
 * Milk Bottles
-
 * Milk bottle tops
-
 * Dairy tokens
 
 These three types of material are commonly sought after by collectors.
