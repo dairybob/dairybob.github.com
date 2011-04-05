@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+<div class="image"><img src="/assets/ecd-four-bottles.jpg" alt="ECD Bottles" />
+<p>The four sizes of bottles used by Edmonton City Dairy. Orange and green applied colour labels.</p></div>
+
 Milk bottles, the first obvious dairy collectible, first appeared in Western Canada about 1905 or so. Prior to that milk was dispensed by dipper into the customer's container. The development of the automatic bottle manufacturing machine made good bottles of consistent quality available at reasonable cost. These bottles were designed to be sealed with paper caps, which have also become collectibles. In eastern Canada, other styles of bottles were in use earlier. These included bottles with a hinged sealing device known as a lighting closure. To my knowledge they were not used in the west. 
 
 Many dairies operated in each of the four western provinces and collecting the milk bottles of each province is a challenge. Many smaller dairies used only plain bottles, perhaps differentiating their product with their own printed caps. In Alberta for example, I am aware of 80 dairies who used milk bottles with their names on them. Of those, some of the earlier larger ones in Edmonton were Edmonton City Dairy (1906), Warren Huff, later Jasper Dairy (1907), and Woodland Dairy (1908).

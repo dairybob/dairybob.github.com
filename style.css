@@ -104,7 +104,22 @@ h3 {
 }
 
 #content table { width: 100%; }
-#content>p { text-indent: 2em; }
+#content>p     { text-indent: 2em; }
+
+.image {
+    float: left;
+    border: 1px solid #CCC;
+    background-color: #EEE;
+    padding: 20px;
+    width: 300px;
+    margin: 0 1em 1em 0;
+}
+
+.image p {
+    margin: 0;
+    font-size: small;
+}
+
 .cover     { width: 200px; padding: 20px;  }
 .cover img { border: 2px solid black; }
 
