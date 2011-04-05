@@ -118,6 +118,12 @@ h3 {
     -webkit-border-radius: 20px;
 }
 
+.image img {
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+
 .image p {
     margin: 0;
     font-size: small;
