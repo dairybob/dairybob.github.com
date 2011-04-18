@@ -7,7 +7,8 @@ In 1995 after retiring from the natural gas industry, I became re-introduced to 
 
 In Alberta about 80 dairies used bottles with their names on them. Of these, a dozen were in Edmonton, the largest four being Edmonton City Dairy (establish 1906), Woodland Dairy (established 1908), Jasper Dairy (established 1907), and the Northern Alberta Dairy Pool (established 1928). Each of these dairies used a variety of embossed and applied color label (ACL) bottles. The bottles from these four dairies make a nice collection in their own right. The advent of applied coloured labels allowed the dairies to expand greatly the styles of logos used, as well as the advertising slogans on the reverse. 
 
-![The author with part of his milk bottle collection.](/assets/bob.jpg)
+<div class="image"><img src="/assets/bob.jpg" alt="Bob" />
+<p>The author with part of his milk bottle collection.</p></div>
 
 Milk bottles became readily available at reasonable cost after 1905 when the automatic bottle-making machine came into use by our Canadian manufacturers. Prior to the wide use of glass bottles, milk was delivered in bulk in milk cans and ladled out into the customer's own container - not too sanitary a process. So the use of sterile glass bottles with a paper cap sealing in the milk was a big step forward from a health standpoint.
 
