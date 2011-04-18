@@ -111,8 +111,9 @@ h3 {
     border: 1px solid #CCC;
     background-color: #EEE;
     padding: 20px;
+    padding-bottom: 15px;
     width: 300px;
-    margin: 0 1em 1em 0;
+    margin: 0 1em;
 }
 
 .image p {
