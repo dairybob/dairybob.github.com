@@ -114,6 +114,15 @@ h3 {
     padding-bottom: 15px;
     width: 300px;
     margin: 0 1em;
+    border-radius: 20px;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+}
+
+.image img {
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
 }
 
 .image p {
