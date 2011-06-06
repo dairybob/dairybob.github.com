@@ -69,7 +69,7 @@ We hope you enjoy the display and your journey back to the milk bottle era... 19
 <p>Purity Dairy calendar with thermometer.</p></div>
 
 <div class="image" style="float:none;margin:1em auto"><img src="/assets/18760023.jpg" alt="Calendar with Thermometer" />
-<p>Palm Dairy, Regina, calendar with thermometer.</p></div>
+<p>Palm Dairy &mdash; Regina. Promotional items. The one on the right has a thermometer with calendar. The older one on the left has a World War 2 era victory slogan, a mirror and a thermometer.</p></div>
 
 <div class="image" style="float:none;margin:1em auto"><img src="/assets/18760024.jpg" alt="Door push-bar" />
 <p>Silverwood (Purity) door push.</p></div>
