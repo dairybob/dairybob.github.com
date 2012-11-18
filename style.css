@@ -113,7 +113,7 @@ h3 {
     padding: 20px;
     padding-bottom: 15px;
     width: 300px;
-    margin: 0 1em;
+    margin: 0 1em 0.5em 1em;
     border-radius: 20px;
     -moz-border-radius: 20px;
     -webkit-border-radius: 20px;
@@ -168,6 +168,7 @@ img {
 }
 
 #footer {
+    clear: both;
     width: 600px;
     height: 60px;
     text-align: center;

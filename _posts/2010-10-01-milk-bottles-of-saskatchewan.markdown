@@ -5,6 +5,9 @@ The gestation period for my latest literary effort was rather long.  Some seriou
 
 As I added bottles to the collection, I became aware of an increasing number of Sask. dairies and creameries that used bottles with their names on them.  Contacts with other collectors enabled me to expand and refine the list of such dairies to a total of 65, compared to 85 in Alberta.
 
+<div class="image"><img src="/assets/crescent-creamery.jpg" alt="Crescent Creamery" />
+<p>Crescent Creamery bottles &mdash; half pint, pint, and quart, all embossed.</p></div>
+
 Bottles from Sask Co-op Creamery, Purity Dairy, Palm Dairies, City Dairy Products (Yorkton), Producer’s Creamery – Unity, and Crescent Creamery, in general, tend to be quite common.  Collectors need to be mindful however that there were many varieties of bottles from several of these dairies.  The varieties include embossed and coloured label bottles and numerous promotional slogans used in the bottle reverses.  Some of these varieties can be quite scarce.  Examples of some of those seen less frequently are:  blue coloured label bottles from Sask. Co-op, cream top bottles from Purity Dairy, some Palm coloured label bottles, Palm cream top bottles and some of the early embossed bottles used by Crescent Creamery.
 
 The stories behind many Saskatchewan milk bottles are as interesting as they are varied.  They range from the larger corporate dairies like Purity that was part of National Dairy Corp of Toronto.  Purity’s operation in Saskatoon grew from the W.A. Davis dairy started by Walter Davis in 1925.  The building he built at 733 Broadway Ave., Saskatoon is still there.
